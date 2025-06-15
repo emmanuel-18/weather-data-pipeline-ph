@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 
-This beginner-friendly data engineering and analytics project uses simulated Philippine weather data :
+This beginner-friendly data engineering and analytics project uses simulated Philippine weather data to uncover insights on rainfall, temperature, and wind speed across regions.
+
+The project walks through:
 - Data ingestion using `pandas`
 - Feature engineering (categorizing rain, wind, temperature)
 - Exploratory analysis and grouping
@@ -13,7 +15,7 @@ This beginner-friendly data engineering and analytics project uses simulated Phi
 
 ## 🗂️ Data Description
 
-The dataset contains daily weather measurements (June 1–30, 2024) across Philippine regions:
+The dataset contains daily weather measurements across Philippine regions:
 - `Date`
 - `Region`
 - `Rainfall (mm)`
@@ -22,17 +24,7 @@ The dataset contains daily weather measurements (June 1–30, 2024) across Phili
 
 Simulated but realistic, it represents patterns often seen during the Philippine rainy season.
 
----
-
-## 📊 Key Insights
-
-- **Region IV-A** had the highest average rainfall.
-- **Heavy rain** was most frequent in **Region III**, indicating flood risk.
-- **Saturday** was the warmest day on average.
-- **Region IX** experienced the most heat.
-- A **3-day moving average** showed a mid-month rainfall peak, then tapering off.
-
----
+--- 
 
 ## 📈 Visualizations
 
